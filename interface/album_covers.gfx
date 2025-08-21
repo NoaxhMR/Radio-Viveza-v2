@@ -186,6 +186,11 @@
 			legacy_lazy_load = no
 		}
 		spriteType = {
+			name = "GFX_TFR_lalucha"
+			texturefile = "gfx/radioviveza_album_covers/TFR_lalucha.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
 			name = "GFX_TFR_enamoradotuyo"
 			texturefile = "gfx/radioviveza_album_covers/TFR_enamoradotuyo.png"
 			legacy_lazy_load = no
@@ -353,6 +358,11 @@
 		spriteType = {
 			name = "GFX_TFR_francesha"
 			texturefile = "gfx/radioviveza_album_covers/TFR_francesha.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_hoyyanoespero"
+			texturefile = "gfx/radioviveza_album_covers/TFR_hoyyanoespero.png"
 			legacy_lazy_load = no
 		}
 		spriteType = {
