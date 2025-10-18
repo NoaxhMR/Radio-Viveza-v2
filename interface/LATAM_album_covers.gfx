@@ -435,4 +435,84 @@
 			texturefile = "gfx/radioviveza_album_covers/TFR_yendoalacasadedamian.png"
 			legacy_lazy_load = no
 		}
+		spriteType = {
+			name = "GFX_TFR_pombero"
+			texturefile = "gfx/radioviveza_album_covers/TFR_pombero.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_estocolmo"
+			texturefile = "gfx/radioviveza_album_covers/TFR_estocolmo.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_heroidofuturo"
+			texturefile = "gfx/radioviveza_album_covers/TFR_heroidofuturo.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_gatinhacomunista"
+			texturefile = "gfx/radioviveza_album_covers/TFR_gatinhacomunista.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_olharpratras"
+			texturefile = "gfx/radioviveza_album_covers/TFR_olharpratras.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_fanky"
+			texturefile = "gfx/radioviveza_album_covers/TFR_fanky.png"
+			legacy_lazy_load = no
+		
+		spriteType = {
+			name = "GFX_TFR_almendra"
+			texturefile = "gfx/radioviveza_album_covers/TFR_almendra.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_elartista"
+			texturefile = "gfx/radioviveza_album_covers/TFR_elartista.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_sevos"
+			texturefile = "gfx/radioviveza_album_covers/TFR_sevos.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_barrioestacion"
+			texturefile = "gfx/radioviveza_album_covers/TFR_barrioestacion.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_porsiempre"
+			texturefile = "gfx/radioviveza_album_covers/TFR_porsiempre.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_malaventurados"
+			texturefile = "gfx/radioviveza_album_covers/TFR_barrioestacion.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_arreglameelalma"
+			texturefile = "gfx/radioviveza_album_covers/TFR_arreglameelalma.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_solo"
+			texturefile = "gfx/radioviveza_album_covers/TFR_solo.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_malditodolar"
+			texturefile = "gfx/radioviveza_album_covers/TFR_malditodolar.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_brasil"
+			texturefile = "gfx/radioviveza_album_covers/TFR_brasil.png"
+			legacy_lazy_load = no
+		}
 	}
