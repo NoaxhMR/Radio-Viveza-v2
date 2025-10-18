@@ -8,9 +8,15 @@ music = {
 }
 
 music = {
-	name = "elzar"
-	file = "elzar.ogg"
-	volume = 0.60
+	name = "elmilagrodelsur"
+	file = "elmilagrodelsur.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "malditodolar"
+	file = "malditodolar.ogg"
+	volume = 0.75
 }
 
 music = {
@@ -152,6 +158,12 @@ music = {
 }
 
 music = {
+	name = "brasil"
+	file = "brasil.ogg"
+	volume = 0.75
+}
+
+music = {
 	name = "cobarde"
 	file = "cobarde.ogg"
 	volume = 0.68
@@ -266,6 +278,12 @@ music = {
 }
 
 music = {
+	name = "hoyyanoespero"
+	file = "hoyyanoespero.ogg"
+	volume = 0.75
+}
+
+music = {
 	name = "baracunatana"
 	file = "baracunatana.ogg"
 	volume = 0.75
@@ -368,8 +386,8 @@ music = {
 }
 
 music = {
-	name = "lacima"
-	file = "lacima.ogg"
+	name = "astrometra"
+	file = "astrometra.ogg"
 	volume = 0.75
 }
 
@@ -508,7 +526,13 @@ music = {
 music = {
 	name = "mientele"
 	file = "mientele.ogg"
-	volume = 0.65
+	volume = 0.75
+
+
+music = {
+	name = "barrioestacion"
+	file = "barrioestacion.ogg"
+	volume = 0.75
 }
 
 music = {
@@ -527,4 +551,87 @@ music = {
 	name = "yendoalacasadedamian"
 	file = "yendoalacasadedamian.ogg"
 	volume = 0.60
+}
+music = {
+	name = "sevos"
+	file = "sevos.ogg"
+	volume = 0.75
+}
+music = {
+	name = "elartista"
+	file = "elartista.ogg"
+	volume = 0.75
+}
+music = {
+	name = "almendra"
+	file = "almendra.ogg"
+	volume = 0.75
+}
+music = {
+	name = "fanky"
+	file = "fanky.ogg"
+	volume = 0.75
+}
+music = {
+	name = "nadasigueigual"
+	file = "nadasigueigual.ogg"
+	volume = 0.75
+}
+music = {
+	name = "olharpratras"
+	file = "olharpratras.ogg"
+	volume = 0.75
+}
+music = {
+	name = "hornosdelcal"
+	file = "hornosdelcal.ogg"
+	volume = 0.75
+}
+music = {
+	name = "homemprimata"
+	file = "homemprimata.ogg"
+	volume = 0.75
+}
+music = {
+	name = "gatinhacomunista"
+	file = "gatinhacomunista.ogg"
+	volume = 0.75
+}
+music = {
+	name = "heroidofuturo"
+	file = "heroidofuturo.ogg"
+	volume = 0.75
+}
+music = {
+	name = "estocolmo"
+	file = "estocolmo.ogg"
+	volume = 0.75
+}
+music = {
+	name = "pombero"
+	file = "pombero.ogg"
+	volume = 0.75
+}
+music = {
+	name = "porsiempre"
+	file = "porsiempre.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "malaventurados"
+	file = "malaventurados.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "arreglameelalma"
+	file = "arreglameelalma.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "solo"
+	file = "solo.ogg"
+	volume = 0.75
 }

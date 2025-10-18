@@ -29,7 +29,16 @@ music = {
 }
 
 music = {
-	song = "elzar"
+	song = "elmilagrodelsur"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "hornosdelcal"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -66,6 +75,15 @@ music = {
 
 music = {
 	song = "aindagostodela"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "malditodolar"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -120,6 +138,15 @@ music = {
 
 music = {
 	song = "mientele"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "barrioestacion"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -344,6 +371,15 @@ music = {
 }
 
 music = {
+	song = "brasil"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "lafuerzadelamor"
 	chance = {
 		modifier = {
@@ -443,6 +479,15 @@ music = {
 }
 
 music = {
+	song = "hoyyanoespero"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "ohquesera"
 	chance = {
 		modifier = {
@@ -516,6 +561,15 @@ music = {
 
 music = {
 	song = "policia"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "homemprimata"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -650,6 +704,15 @@ music = {
 }
 
 music = {
+	song = "fanky"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "jijiji"
 	chance = {
 		modifier = {
@@ -668,7 +731,16 @@ music = {
 }
 
 music = {
-	song = "lacima"
+	song = "nadasigueigual"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "astrometra"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -774,3 +846,113 @@ music = {
 		}		
 	}
 }
+
+music = {
+	song = "estocolmo"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "solo"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "heroidofuturo"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "gatinhacomunista"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "olharpratras"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "pombero"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "elartista"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "almendra"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "sevos"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "malaventurados"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "porsiempre"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "arreglameelalma"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+
